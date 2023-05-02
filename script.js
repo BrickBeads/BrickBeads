@@ -2,15 +2,11 @@
 // BrickBeads | Victor Masotti
 // NC
 
-// START
-
-// 1. Global Vars
 let angle = 0;
 let ma;
 let MaxD;
 let offset = 10;
 
-// 2. F Setup
 function setup () {
   canvas = createCanvas(windowWidth,windowHeight,WEBGL);
   canvas.position(0,0);
@@ -35,13 +31,9 @@ function setup () {
   MaxD = dist(0,0,230,230);
 }
 
-// 4. F Draw
 function draw() {
-  
   const aztecGod = [1,2,3,4,5];
     var london = random(aztecGod);
-  
-  // DIV 0.1 
   const cSB = [248,249,216];
   const cTG = [137,149,62];
   const cCR = [243,16,100];
@@ -64,9 +56,7 @@ function draw() {
   const cCGCG = [190,218,45];
   const coko = [cSB,cTG,cCR,cOY,cGA,cMG,cCRCR,cCT,cYB,cVO,cCRCRCR,cPP,cTB,cCRCRCRCR,cEB,cTG,cCR,cOY,cGA,cMG,cCRCR,cCT,cYB,cVO,cCRCRCR,cPP,cTB,cCRCRCRCR,cEB,cCY,cCRCRfive,cCG,cCY,cCRCRfive,cCG,cCB,cCGCG];
   var huesb = random(coko);
-  console.log(huesb);
-  
-  // DIV 0.2
+
   const dSB = [248,249,216];
   const dTG = [137,149,62];
   const dCR = [243,16,100];
@@ -89,9 +79,7 @@ function draw() {
   const dCGCG = [190,218,45];
   const dance = [dSB,dTG,dCR,dOY,dGA,dMG,dCRCR,dCT,dYB,dVO,dCRCRCR,dPP,dTB,dCRCRCRCR,dEB,dTG,dCR,dOY,dGA,dMG,dCRCR,dCT,dYB,dVO,dCRCRCR,dPP,dTB,dCRCRCRCR,dEB,dCY,dCY,dCRCRfive,dCRCRfive,dCG,dCG,dCB,dCB,dCGCG,dCGCG];
   var huesc = random(dance);
-  console.log(huesc);
-  
-  // DIV 0.3
+
   const ddSB = [248,249,216];
   const ddTG = [137,149,62];
   const ddCR = [243,16,100];
@@ -114,9 +102,7 @@ function draw() {
   const ddCGCG = [190,218,45];
   const kelp = [ddSB,ddTG,ddCR,ddOY,ddGA,ddMG,ddCRCR,ddCT,ddYB,ddVO,ddCRCRCR,ddPP,ddTB,ddCRCRCRCR,ddEB,ddTG,ddCR,ddOY,ddGA,ddMG,ddCRCR,ddCT,ddYB,ddVO,ddCRCRCR,ddPP,ddTB,ddCRCRCRCR,ddEB,ddCY,ddCY,ddCRCRfive,ddCRCRfive,ddCG,ddCG,ddCB,ddCB,ddCGCG,ddCGCG];
   var huesd = random(kelp);
-  console.log(huesd);
-  
-  // DIV 0
+
   let mosca = 0;
   const wbmexunoa = [3.2,4.2,5.2];
   var wbmexunot = random(wbmexunoa);
@@ -167,10 +153,9 @@ function draw() {
   
   const gloria = [2.1,2.2,2.3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22];
   var al = random(gloria);
-    const oneD = [15,20,25,35,45];
+    const oneD = [15,20,25,35,45,50];
     var w = random(oneD);
     w = w;
-    console.log(w);
   
   const crust = [1.5,2.5,3.45,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,44.5,45,57,90,180,270,350];
   var amex = random(crust);
