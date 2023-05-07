@@ -62,38 +62,6 @@
 	-->
 
 <script>
-        function hidex() {
-    var x = document.getElementById('akitainfo');
-    if (x.style.display == 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'block';
-    }
-}
-
-function disableScroll() {
-            // Get the current page scroll position
-            scrollTop =
-            window.pageYOffset || document.documentElement.scrollTop;
-            scrollLeft =
-            window.pageXOffset || document.documentElement.scrollLeft,
-          
-                // if any scroll is attempted,
-                // set this to the previous value
-                window.onscroll = function() {
-                    window.scrollTo(scrollLeft, scrollTop);
-                };
-        }
-          
-        function enableScroll() {
-            window.onscroll = function() {};
-        }
-
-function clickAkita(){
-    disableScroll();
-    hidex();
-}
-
 function clipperMail() {
   var copyText = document.getElementById("clipmail");
 
@@ -104,7 +72,6 @@ function clipperMail() {
 
   alert("Copied the text: " + copyText.value);
 }
-
 </script>
 
 <img 
