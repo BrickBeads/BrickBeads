@@ -45,16 +45,8 @@
 <a href="MARCHWORKTAB.html"><h1 id="march">MARCH</h1></a>
 </div>
 
-<section id="aprilwork" role="main">
-
-<DIV ID="aprilimg">
-
-<h1 id="digital">DIGITAL WORKS</h1>
-
-<div class="images">
-
 <script>
-        function hidex() {
+  function hidex() {
     var x = document.getElementById('akitainfo');
     if (x.style.display == 'none') {
         x.style.display = 'block';
@@ -62,41 +54,15 @@
         x.style.display = 'block';
     }
 }
-
-function disableScroll() {
-            // Get the current page scroll position
-            scrollTop =
-            window.pageYOffset || document.documentElement.scrollTop;
-            scrollLeft =
-            window.pageXOffset || document.documentElement.scrollLeft,
-          
-                // if any scroll is attempted,
-                // set this to the previous value
-                window.onscroll = function() {
-                    window.scrollTo(scrollLeft, scrollTop);
-                };
-        }
-          
-        function enableScroll() {
-            window.onscroll = function() {};
-        }
-
-function clickAkita(){
-    disableScroll();
-    hidex();
-}
-
-function clipperMail() {
-  var copyText = document.getElementById("clipmail");
-
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobilea devices
-
-  navigator.clipboard.writeText(copyText.value);
-
-  alert("Copied the text: " + copyText.value);
-}
 </script>
+
+<section id="aprilwork" role="main">
+
+<DIV ID="aprilimg">
+
+<h1 id="digital">DIGITAL WORKS</h1>
+
+<div class="images">
 
 <img 
 id="aurillac"
@@ -349,6 +315,64 @@ alt="Aberdeen / Drawing On Paper [2023]"
 
 </div>
 </div>
+
+<DIV ID="aprilimg4">
+
+<h1 id="digital">DIGITAL STUDIES</h1>
+
+<div class="images">
+
+<img 
+id="tbf"
+src="tbf.png" 
+alt="Digital Study #1 / Untitled [2023]" 
+>
+
+<img 
+id="blob"
+src="BLOB.png" 
+alt="Digital Study #2 / Untitled [2023]" 
+>
+
+<img 
+id="exp9"
+src="exp9.png" 
+alt="Digital Study #3 / Untitled [2023]" 
+>
+
+<img 
+id="exp3"
+src="exp3.png" 
+alt="Digital Study #4 / Untitled [2023]" 
+>
+
+<img 
+id="exp2"
+src="exp2.png" 
+alt="Digital Study #5 / Untitled [2023]" 
+>
+
+<img 
+id="exp12"
+src="exp12.png" 
+alt="Digital Study #6 / Untitled [2023]" 
+>
+
+<img 
+id="expa4"
+src="expa4.png" 
+alt="Digital Study #7 / Untitled [2023]" 
+>
+
+<img 
+id="expa3"
+src="expa3.png" 
+alt="Digital Study #8 / Untitled [2023]" 
+>
+
+</div>
+</div>
+
 </section>
 
 <footer class="basfooter">
