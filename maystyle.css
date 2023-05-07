@@ -922,36 +922,7 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#mix2 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#mix1 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#mix15 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#cannes {
+#cannestwo {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -961,7 +932,7 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#londinium {
+#monterreyy {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -971,7 +942,7 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#vatican {
+#auch {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -980,17 +951,7 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#trevi {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#bilbao {
+#pau {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -1000,16 +961,7 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#aalst {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#sculp {
+#york {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -1019,7 +971,16 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#chelsea {
+#vauxhall {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#porto {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -1029,16 +990,7 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#edgware {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#richmond {
+#paimpol {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -1048,7 +1000,16 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#harrow {
+#ogulin {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#morlaix {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -1058,7 +1019,17 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#epping {
+#koln {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#kew {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -1067,7 +1038,104 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#grove {
+#kassel {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#inca {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#hyde {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#haag {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#finsbury {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#denver {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#cumbria {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#cologne {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#camden {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#abridge {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 3.48%;
+float: left;
+}
+
+#aberdeen {
 display: block;
 cursor: pointer;
 width: 30.6%; 
