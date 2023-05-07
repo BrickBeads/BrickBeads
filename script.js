@@ -363,9 +363,3 @@ function draw() {
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight,WEBGL);
 }
-
-// END
-
-// NC
-// BrickBeads | Victor Masotti
-// Mexico V6 [2023]
