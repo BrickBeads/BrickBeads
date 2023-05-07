@@ -927,7 +927,6 @@ display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
-margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
@@ -947,6 +946,7 @@ display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
+margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
