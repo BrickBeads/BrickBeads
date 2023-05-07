@@ -178,6 +178,36 @@ margin-left: 2.54%;
 float: left;
 }
 
+#may {
+color: rgb(25,25,25);
+cursor: pointer;
+display: inline-block;
+font-family: 'Inter', sans-serif;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+height: auto;
+line-height: auto;
+text-decoration-color: rgb(103,103,103)
+text-decoration-line: none;
+text-decoration: none;
+text-decoration-style: solid; 
+text-decoration-thickness: auto;
+text-size-adjust: 100%;
+text-transform: none;
+width: auto;
+z-index: 99;
+transform: translate(0%, 0%);
+margin-left: 2.54%;
+margin-top: 0.853%;
+float: left;
+}
+
+#may:hover {
+color: rgb(222,153,1);
+transition: 0.25s;
+}
+
 #april {
 color: rgb(88,88,88);
 cursor: pointer;
