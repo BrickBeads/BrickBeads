@@ -495,11 +495,29 @@ cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
 margin-right: 4.1%;
-margin-bottom: 4.1%;
+margin-bottom: 2.7%;
 float: left;
 }
 
 #mox4 {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 2.7%;
+float: left;
+}
+
+#mox5 {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 2.7%;
+float: left;
+}
+
+#mit1 {
 display: block;
 cursor: pointer;
 width: 30.6%; 
@@ -509,12 +527,50 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#mox5 {
+#mit2 {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#mit3 {
 display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
 margin-bottom: 4.1%;
+float: left;
+}
+
+#mit4 {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 2.7%;
+float: left;
+}
+
+#mit5 {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 2.7%;
+float: left;
+}
+
+#mit6 {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 2.7%;
 float: left;
 }
 
@@ -528,50 +584,12 @@ margin-bottom: 4.1%;
 float: left;
 }
 
-#mox7 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#mox8 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#mox9 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#mox91 {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
 #mox92 {
 display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
+margin-right: 4.1%;
 margin-bottom: 2.7%;
 float: left;
 }
