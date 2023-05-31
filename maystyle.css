@@ -315,108 +315,129 @@ margin-left: 0.25%;
 margin-top: 0%;
 }
 
-#akitainfo {
-display: none;
-position: fixed; 
-width: 100%;
-height: 100%;
-left: 0px;
-top: 0px;
-right: 0px;
-bottom: 0px;
-}
-
-.akitaif {
-text-size-adjust: 100%;
-tab-size: 4;
-width: 100%;
-height: 100%;
-padding: 4%;
-margin-bottom: auto;
-margin-top: auto;
-background-color: rgba(249,249,236,0.974);
-line-height: 50%;
-display: flex;
-align-items: center;		
-justify-content: center;
-box-sizing: border-box;
-z-index: 102;
-}
-
-#internd {
-margin: 0 auto;
-text-align: left;
-height: 100%;
-width: 100%;
-margin-bottom: 0 auto;
-margin-top: 0 auto;
-line-height: 50%;
-}
-
-#resakita {
-margin-bottom: auto;
-margin-top: auto;
-display: block;
-cursor: auto;
-width: 44.0673828125%; 
-height: width;
-max-width: 100%;
-z-index: 104;
-float: left;
-}
-
-#sbetween {
-display: block;
-cursor: auto;
-width: 51.9326%; 
-height: auto;
-max-width: 100%;
-z-index: 104;
-float: right;
-background-color: coral;
-margin-left: 4%;
-}
-
-#akitahigh {
-color: rgb(13,13,13);
-cursor: pointer;
-display: block;
-font-family: 'Inter', sans-serif;
-font-size: 40px;
-font-style: normal;
-font-weight: 400;
-height: auto;
-margin-block-end: 0;
-margin-block-start: 0;
-line-height: auto;
-text-decoration-color: rgb(103,103,103);
-text-decoration-line: none;
-text-decoration: none;
-text-decoration-style: solid; 
-text-decoration-thickness: auto;
-text-size-adjust: 100%;
-text-transform: none;
-width: auto;
-z-index: 106;
-}
-
-#aurillac {
+#leiden {
 display: block;
 cursor: pointer;
 margin-right: 4.1%;
 margin-bottom: 4.1%;
 width: 30.6%; 
 height: 30.6%;
+float: left;
+}
+
+#sycamore {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#davao {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#klofta {
+display: block;
+cursor: pointer;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+width: 30.6%; 
+height: 30.6%;
+float: left;
+}
+
+#medan {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#tulum {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#carmel {
+display: block;
+cursor: pointer;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+width: 30.6%; 
+height: 30.6%;
+float: left;
+}
+
+#inzell {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#hinatuan {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#meppel {
+display: block;
+cursor: pointer;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+width: 30.6%; 
+height: 30.6%;
+float: left;
+}
+
+#zwolle {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#aurillac {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
 float: left;
 }
 
 #hamburg {
 display: block;
 cursor: pointer;
+margin-right: 4.1%;
+margin-bottom: 2.7%;
 width: 30.6%; 
 height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
 float: left;
 }
 
@@ -425,147 +446,12 @@ display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
-margin-bottom: 4.1%;
+margin-right: 4.1%;
+margin-bottom: 2.7%;
 float: left;
 }
 
 #ferrara {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#akita {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#zeist {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#coventry {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#bayonne {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#atlixco {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#cedral {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#hyogo {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#yao {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#klarup {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#asago {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#fukui {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-bottom: 4.1%;
-float: left;
-}
-
-#xalapa {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#oxcabal {
-display: block;
-cursor: pointer;
-width: 30.6%; 
-height: 30.6%;
-margin-right: 4.1%;
-margin-bottom: 2.7%;
-float: left;
-}
-
-#hazelton {
 display: block;
 cursor: pointer;
 width: 30.6%; 
