@@ -1,12 +1,9 @@
 // Mexico V6 [2023]
-// BrickBeads | Victor Masotti
-// NC
-
+// BrickBeads | Victor Masotti | NC
 let angle = 0;
 let ma;
 let MaxD;
 let offset = 10;
-
 function setup () {
   canvas = createCanvas(windowWidth,windowHeight,WEBGL);
   canvas.position(0,0);
@@ -23,17 +20,13 @@ function setup () {
   const showdown = [chord,mayo,lego,police];
   var ametal = random(showdown);
   ma = atan(1/sqrt(ametal));
-
   frameRate(1);
-  
   ortho(-130,130,-130,130,PI,865);
-  
   MaxD = dist(0,0,230,230);
 }
-
 function draw() {
   const aztecGod = [1,2,3,4,5];
-    var london = random(aztecGod);
+   var london = random(aztecGod);
   const cSB = [248,249,216];
   const cTG = [137,149,62];
   const cCR = [243,16,100];
@@ -41,69 +34,24 @@ function draw() {
   const cGA = [15,184,188];
   const cMG = [1,99,66];
   const cCRCR = [255,87,53];
-  const cCT = [1,128,113];
+  const cCT = [1,62,104];
   const cYB = [6,63,83];
   const cVO = [254,140,1];
   const cCRCRCR = [152,39,45];
-  const cPP = [148,60,100];
+  const cPP = [255,243,121];
   const cTB = [1,112,216];
   const cCRCRCRCR = [162,41,28];
-  const cEB = [142,176,203];
+  const cEB = [190,71,19];
   const cCY = [253,199,5];
   const cCRCRfive = [207,15,39];
   const cCG = [21,98,11];
-  const cCB = [102,134,151];
+  const cCB = [111,148,122];
   const cCGCG = [190,218,45];
   const coko = [cSB,cTG,cCR,cOY,cGA,cMG,cCRCR,cCT,cYB,cVO,cCRCRCR,cPP,cTB,cCRCRCRCR,cEB,cTG,cCR,cOY,cGA,cMG,cCRCR,cCT,cYB,cVO,cCRCRCR,cPP,cTB,cCRCRCRCR,cEB,cCY,cCRCRfive,cCG,cCY,cCRCRfive,cCG,cCB,cCGCG];
-  var huesb = random(coko);
-
-  const dSB = [248,249,216];
-  const dTG = [137,149,62];
-  const dCR = [243,16,100];
-  const dOY = [233,174,40];
-  const dGA = [15,184,188];
-  const dMG = [1,99,66];
-  const dCRCR = [255,87,53];
-  const dCT = [1,128,113];
-  const dYB = [6,63,83];
-  const dVO = [254,140,1];
-  const dCRCRCR = [152,39,45];
-  const dPP = [148,60,100];
-  const dTB = [1,112,216];
-  const dCRCRCRCR = [162,41,28];
-  const dEB = [142,176,203];
-  const dCY = [253,199,5];
-  const dCRCRfive = [207,15,39];
-  const dCG = [21,98,11];
-  const dCB = [102,134,151];
-  const dCGCG = [190,218,45];
-  const dance = [dSB,dTG,dCR,dOY,dGA,dMG,dCRCR,dCT,dYB,dVO,dCRCRCR,dPP,dTB,dCRCRCRCR,dEB,dTG,dCR,dOY,dGA,dMG,dCRCR,dCT,dYB,dVO,dCRCRCR,dPP,dTB,dCRCRCRCR,dEB,dCY,dCY,dCRCRfive,dCRCRfive,dCG,dCG,dCB,dCB,dCGCG,dCGCG];
-  var huesc = random(dance);
-
-  const ddSB = [248,249,216];
-  const ddTG = [137,149,62];
-  const ddCR = [243,16,100];
-  const ddOY = [233,174,40];
-  const ddGA = [15,184,188];
-  const ddMG = [1,99,66];
-  const ddCRCR = [255,87,53];
-  const ddCT = [1,128,113];
-  const ddYB = [6,63,83];
-  const ddVO = [254,140,1];
-  const ddCRCRCR = [152,39,45];
-  const ddPP = [148,60,100];
-  const ddTB = [1,112,216];
-  const ddCRCRCRCR = [162,41,28];
-  const ddEB = [142,176,203];
-  const ddCY = [253,199,5];
-  const ddCRCRfive = [207,15,39];
-  const ddCG = [21,98,11];
-  const ddCB = [102,134,151];
-  const ddCGCG = [190,218,45];
-  const kelp = [ddSB,ddTG,ddCR,ddOY,ddGA,ddMG,ddCRCR,ddCT,ddYB,ddVO,ddCRCRCR,ddPP,ddTB,ddCRCRCRCR,ddEB,ddTG,ddCR,ddOY,ddGA,ddMG,ddCRCR,ddCT,ddYB,ddVO,ddCRCRCR,ddPP,ddTB,ddCRCRCRCR,ddEB,ddCY,ddCY,ddCRCRfive,ddCRCRfive,ddCG,ddCG,ddCB,ddCB,ddCGCG,ddCGCG];
-  var huesd = random(kelp);
-
-  let mosca = 0;
+  var huesb= random(coko);
+  var huesc= random(coko);
+  var huesd= random(coko);
+  let mosca=0;
   const wbmexunoa = [3.2,4.2,5.2];
   var wbmexunot = random(wbmexunoa);
   const wbmextwoa = [6.2,7.2,8.2];
@@ -118,7 +66,6 @@ function draw() {
   var wbmexsix = random(wbmexcina);
   const wbmex = [wbmexunot,wbmextwo,wbmextre,wbmexqut,wbmexcin,wbmexsix,mosca];
   var wmexb = random(wbmex);
-  // 2
   let nando = 0;
   const wcmexunob = [3.1,4.1,5.1];
   var wcmexuno = random(wcmexunob);
@@ -134,7 +81,6 @@ function draw() {
   var wcmexsix = random(wcmexsixb);
   const lotion = [wcmexuno,wcmextwo,wcmextre,wcmexqut,wcmexcin,wcmexsix,nando];
   var wmexc = random(lotion);
-  // 3
   let cookieCat = 0;
   const wdmexunob = [3,4,5];
   var wdmexuno = random(wdmexunob);
@@ -150,13 +96,11 @@ function draw() {
   var wdmexsix = random(wdmexsixb);
   const wdmex = [wdmexuno,wdmextwo,wdmextre,wdmexqut,wdmexcin,wdmexsix,cookieCat];
   var wmexd = random(wdmex);
-  
   const gloria = [2.1,2.2,2.3,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22];
   var al = random(gloria);
-    const oneD = [15,20,25,35,45,50];
-    var w = random(oneD);
-    w = w;
-  
+   const oneD = [15,20,25,35,45,50];
+   var w = random(oneD);
+   w = w;
   const crust = [1.5,2.5,3.45,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,44.5,45,57,90,180,270,350];
   var amex = random(crust);
   rotateX(-QUARTER_PI);
@@ -168,7 +112,6 @@ function draw() {
   let a = angle + offset + 1;
   let h = map(sin(a),-2.45,2.45,251,502);
   w = w;
- 
     const beachRan = [0,5,6,15,50,55,200,500,1000];
     var rimini = random(beachRan);
     const beach = [415,420,430,440];
