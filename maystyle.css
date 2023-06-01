@@ -1031,6 +1031,46 @@ display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+
+#kyoto {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#cali {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-bottom: 4.1%;
+float: left;
+}
+
+#aveiro {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
+margin-right: 4.1%;
+margin-bottom: 2.7%;
+float: left;
+}
+
+#palma {
+display: block;
+cursor: pointer;
+width: 30.6%; 
+height: 30.6%;
 margin-bottom: 2.7%;
 float: left;
 }
