@@ -3,8 +3,8 @@
 }
 
 ::selection {
-  background: rgba(249,249,210,.85);
-  color: rgb(7,7,7);
+  background: rgb(10,15,254);
+  color: rgb(250,252,248);
 }
 
 #worktitle {
@@ -26,7 +26,7 @@ z-index: 99;
 }
 
 #worktitle:hover {
-    color: rgb(224,157,2);
+    color: rgb(10,15,254);
 	transition: 0.29s;
 }
 
@@ -35,17 +35,17 @@ margin-bottom: 1.65%;
 }
 
 #greywork:hover {
-    color: rgb(200,142,1);
+    color: rgb(10,15,254);
 	transition: 0.25s;
 }
 
 #newstab:hover {
-    color: rgb(222,153,1);
+    color: rgb(10,15,254);
 	transition: 0.25s;
 }
 
 #infotab:hover {
-    color: rgb(222,153,1);
+     color: rgb(10,15,254);
 	transition: 0.25s;
 }
 
@@ -1358,9 +1358,9 @@ float: right;
 }
 
 
-#bushattack:hover {
+#bushattack:{
 cursor: pointer;
-color: rgb(145,145,145);
+  color: rgb(10,15,254);
 transition: 0.15s;
 }
 
@@ -1372,7 +1372,7 @@ display: block;
 
 #txtright:hover {
 cursor: pointer;
-color: rgb(9,9,9);
+  color: rgb(10,15,254);
 transition: 0.13s;
 }
 
