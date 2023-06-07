@@ -3,8 +3,8 @@
 }
 
 ::selection {
-  background: rgba(249,249,210,.85);
-  color: rgb(7,7,7);
+  background: rgb(246,115,2);
+  color: rgb(250,250,252);
 }
 
 #worktitle {
@@ -26,7 +26,7 @@ z-index: 99;
 }
 
 #worktitle:hover {
-    color: rgb(224,157,2);
+    color: rgb(246,115,2);
 	transition: 0.29s;
 }
 
@@ -35,17 +35,17 @@ margin-bottom: 1.65%;
 }
 
 #greywork:hover {
-    color: rgb(200,142,1);
+    color: rgb(246,115,2);
 	transition: 0.25s;
 }
 
 #newstab:hover {
-    color: rgb(222,153,1);
+    color: rgb(246,115,2);
 	transition: 0.25s;
 }
 
 #infotab:hover {
-    color: rgb(222,153,1);
+    color: rgb(246,115,2);
 	transition: 0.25s;
 }
 
@@ -1075,7 +1075,6 @@ margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
-
 .basfooter {
 display: block;
 width: 100%;
@@ -1089,7 +1088,6 @@ line-height: 25px;
 text-transform: none;
 text-size-adjust: 100%;
 }
-
 .basdiv {
 display: block;
 float: left;
@@ -1126,7 +1124,6 @@ z-index: 1;
 margin-top: 2.25%;
 float: left;
 }
-
 #txtright {
 color: rgb(17,17,17);
 height: auto;
@@ -1144,7 +1141,6 @@ margin-top: 2.25%;
 float: right;
 margin-left: 3.3%;
 }
-
 #instatxt {
 color: rgb(17,17,17);
 height: auto;
@@ -1180,10 +1176,9 @@ margin-top: 2.25%;
 float: right;
 }
 
-
 #bushattack:hover {
 cursor: pointer;
-color: rgb(145,145,145);
+color: rgb(246,115,2);
 transition: 0.15s;
 }
 
@@ -1195,7 +1190,7 @@ display: block;
 
 #txtright:hover {
 cursor: pointer;
-color: rgb(9,9,9);
+color: rgb(246,115,2);
 transition: 0.13s;
 }
 
