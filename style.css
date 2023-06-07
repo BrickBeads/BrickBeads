@@ -29,8 +29,8 @@ margin-left: 1.9%;
 }
 
 #worktitle:hover {
-    color: rgb(224,157,2);
-	transition: 0.29s;
+color: rgb(250,15,2);
+transition: 0.29s;
 }
 
 #homeheader {
@@ -38,12 +38,12 @@ margin-bottom: 1.65%;
 }
 
 #workk:hover {
-    color: rgb(222,153,1);
+   color: rgb(250,15,2);
 	transition: 0.25s;
 }
 
 #infor:hover {
-    color: rgb(222,153,1);
+ color: rgb(250,15,2);
 	transition: 0.25s;
 }
 
@@ -289,8 +289,8 @@ top: 54.5%;
 left: 31px;
 }
 
-#myTw:hover {
-    color: rgb(200,142,1);
+#myTw:{
+   color: rgb(250,15,2);
 	transition: 0.25s;  
 }
 
@@ -301,12 +301,12 @@ left: 31px;
 }
 
 #myIg:hover {
-    color: rgb(200,142,1);
+  color: rgb(250,15,2);
 	transition: 0.25s;
 }
 
 #myEmm:hover {
-    color: rgb(200,142,1);
+   color: rgb(250,15,2);
 	transition: 0.25s;
 }
 
