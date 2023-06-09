@@ -20,7 +20,7 @@ function setup () {
   const showdown = [chord,mayo,lego,police];
   var ametal = random(showdown);
   ma = atan(1/sqrt(ametal));
-  frameRate(1);
+  frameRate(0.8);
   ortho(-130,130,-130,130,PI,865);
   MaxD = dist(0,0,230,230);
 }
