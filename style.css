@@ -30,7 +30,7 @@ margin-left: 1.9%;
 
 #worktitle:hover {
 color: rgb(250,15,2);
-transition: 0.29s;
+transition: 0.7s;
 }
 
 #homeheader {
@@ -39,12 +39,12 @@ margin-bottom: 1.65%;
 
 #workk:hover {
    color: rgb(250,15,2);
-	transition: 0.25s;
+	transition: 0.7s;
 }
 
 #infor:hover {
  color: rgb(250,15,2);
-	transition: 0.25s;
+	transition: 0.7s;
 }
 
 .twotwo {
@@ -282,6 +282,7 @@ z-index: 99;
 padding-bottom: 5.5px;
 }
 
+
 #myMel {
 position: fixed;
 transform: translate(0%, -50%);
@@ -289,25 +290,26 @@ top: 54.5%;
 left: 31px;
 }
 
+
 #myTw:{
    color: rgb(250,15,2);
-	transition: 0.25s;  
+	transition: 0.7s;  
 }
 
 #myMail:hover {
     display: block;
-	transition: 0.25s;  
+	transition: 0.7s;  
 	cursor: auto;
 }
 
 #myIg:hover {
   color: rgb(250,15,2);
-	transition: 0.25s;
+	transition: 0.7s;
 }
 
 #myEmm:hover {
    color: rgb(250,15,2);
-	transition: 0.25s;
+	transition: 0.7s;
 }
 
 #myEmm:hover #myMail {
