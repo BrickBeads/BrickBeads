@@ -3,8 +3,8 @@
 }
 
 ::selection {
-  background: rgb(20,180,4);
-  color: rgb(250,252,248);
+  background: rgb(254,1,143);
+  color: rgb(251,251,248);
 }
 
 #worktitle {
@@ -202,7 +202,7 @@ float: left;
 }
 
 #may:hover {
-color: rgb(200,142,1);
+color: rgb(254,1,143);
 transition: 0.25s;
 }
 
@@ -232,7 +232,7 @@ float: left;
 }
 
 #april:hover {
-color: rgb(222,153,1);
+color: rgb(254,1,143);
 transition: 0.25s;
 }
 
@@ -261,7 +261,7 @@ float: left;
 }
 
 #march:hover {
-color: rgb(222,153,1);
+color: rgb(254,1,143);
 transition: 0.25s;
 }
 
@@ -1075,8 +1075,6 @@ margin-bottom: 2.7%;
 float: left;
 }
 
-
-
 #sheet1 {
 display: block;
 cursor: pointer;
@@ -1360,7 +1358,7 @@ float: right;
 
 #bushattack:{
 cursor: pointer;
-  color: rgb(10,15,254);
+color: rgb(254,1,143);
 transition: 0.15s;
 }
 
@@ -1372,7 +1370,7 @@ display: block;
 
 #txtright:hover {
 cursor: pointer;
-  color: rgb(10,15,254);
+color: rgb(254,1,143);
 transition: 0.13s;
 }
 
