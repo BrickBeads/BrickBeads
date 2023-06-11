@@ -4,7 +4,7 @@
 
 ::selection {
   background: rgb(10,15,254);
-  color: rgb(250,252,248);
+  color: rgb(250,252,249);
 }
 
 #worktitle {
@@ -27,7 +27,7 @@ z-index: 99;
 
 #worktitle:hover {
     color: rgb(10,15,254);
-	transition: 0.29s;
+	transition: 0.3s;
 }
 
 #wheader {
@@ -36,17 +36,17 @@ margin-bottom: 1.65%;
 
 #greywork:hover {
     color: rgb(10,15,254);
-	transition: 0.25s;
+	transition: 0.3s;
 }
 
 #newstab:hover {
     color: rgb(10,15,254);
-	transition: 0.25s;
+	transition: 0.3s;
 }
 
 #infotab:hover {
      color: rgb(10,15,254);
-	transition: 0.25s;
+	transition: 0.3s;
 }
 
 #greywork {
@@ -1185,7 +1185,6 @@ margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
-
 #exp9 {
 display: block;
 cursor: pointer;
@@ -1266,7 +1265,6 @@ line-height: 25px;
 text-transform: none;
 text-size-adjust: 100%;
 }
-
 .basdiv {
 display: block;
 float: left;
@@ -1357,11 +1355,10 @@ margin-top: 2.25%;
 float: right;
 }
 
-
 #bushattack:{
 cursor: pointer;
   color: rgb(10,15,254);
-transition: 0.15s;
+transition: 0.3s;
 }
 
 #bushattack {
@@ -1373,7 +1370,19 @@ display: block;
 #txtright:hover {
 cursor: pointer;
   color: rgb(10,15,254);
-transition: 0.13s;
+transition: 0.3s;
+}
+
+#instatxt:hover {
+cursor: pointer;
+color: rgb(10,15,254);
+transition: 0.3s;
+}
+
+#tweettxt:hover {
+cursor: pointer;
+color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 html, body {
@@ -1382,7 +1391,7 @@ html, body {
 }
 
 canvas {
-  display: block;
+ display: block;
 }
 
 #clipmail {
