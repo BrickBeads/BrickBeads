@@ -202,8 +202,8 @@ float: left;
 }
 
 #may:hover {
-color: rgb(200,142,1);
-transition: 0.25s;
+color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 #april {
@@ -232,8 +232,8 @@ float: left;
 }
 
 #april:hover {
-color: rgb(222,153,1);
-transition: 0.25s;
+color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 #march {
@@ -261,8 +261,8 @@ float: left;
 }
 
 #march:hover {
-color: rgb(222,153,1);
-transition: 0.25s;
+color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 #aprilwork {
