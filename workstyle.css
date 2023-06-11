@@ -27,7 +27,7 @@ z-index: 99;
 
 #worktitle:hover {
     color: rgb(246,115,2);
-	transition: 0.29s;
+	transition: 0.3s;
 }
 
 #wheader {
@@ -36,17 +36,17 @@ margin-bottom: 1.65%;
 
 #greywork:hover {
     color: rgb(246,115,2);
-	transition: 0.25s;
+	transition: 0.3s;
 }
 
 #newstab:hover {
     color: rgb(246,115,2);
-	transition: 0.25s;
+	transition: 0.3s;
 }
 
 #infotab:hover {
     color: rgb(246,115,2);
-	transition: 0.25s;
+	transition: 0.3s;
 }
 
 #greywork {
@@ -1179,7 +1179,7 @@ float: right;
 #bushattack:hover {
 cursor: pointer;
 color: rgb(246,115,2);
-transition: 0.15s;
+transition: 0.3s;
 }
 
 #bushattack {
@@ -1191,7 +1191,19 @@ display: block;
 #txtright:hover {
 cursor: pointer;
 color: rgb(246,115,2);
-transition: 0.13s;
+transition: 0.3s;
+}
+
+#instatxt:hover {
+cursor: pointer;
+color: rgb(246,115,2);
+transition: 0.3s;
+}
+
+#tweettxt:hover {
+cursor: pointer;
+color: rgb(246,115,2);
+transition: 0.3s;
 }
 
 html, body {
