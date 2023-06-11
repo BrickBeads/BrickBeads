@@ -4,7 +4,7 @@
 
 ::selection {
   background: rgb(254,1,143);
-  color: rgb(251,251,248);
+  color: rgb(251,250,249);
 }
 
 #worktitle {
@@ -26,8 +26,8 @@ z-index: 99;
 }
 
 #worktitle:hover {
-    color: rgb(10,15,254);
-	transition: 0.29s;
+    color: rgb(254,1,143);
+	transition: 0.3s;
 }
 
 #wheader {
@@ -35,18 +35,18 @@ margin-bottom: 1.65%;
 }
 
 #greywork:hover {
-    color: rgb(10,15,254);
-	transition: 0.25s;
+    color: rgb(254,1,143);
+	transition: 0.3s;
 }
 
 #newstab:hover {
-    color: rgb(10,15,254);
-	transition: 0.25s;
+    color: rgb(254,1,143);
+	transition: 0.3s;
 }
 
 #infotab:hover {
-     color: rgb(10,15,254);
-	transition: 0.25s;
+     color: rgb(254,1,143);
+	transition: 0.3s;
 }
 
 #greywork {
@@ -203,7 +203,7 @@ float: left;
 
 #may:hover {
 color: rgb(254,1,143);
-transition: 0.25s;
+transition: 0.3s;
 }
 
 #april {
@@ -233,7 +233,7 @@ float: left;
 
 #april:hover {
 color: rgb(254,1,143);
-transition: 0.25s;
+transition: 0.3s;
 }
 
 #march {
@@ -262,7 +262,7 @@ float: left;
 
 #march:hover {
 color: rgb(254,1,143);
-transition: 0.25s;
+transition: 0.3s;
 }
 
 #aprilwork {
@@ -1359,7 +1359,7 @@ float: right;
 #bushattack:{
 cursor: pointer;
 color: rgb(254,1,143);
-transition: 0.15s;
+transition: 0.3s;
 }
 
 #bushattack {
@@ -1371,7 +1371,19 @@ display: block;
 #txtright:hover {
 cursor: pointer;
 color: rgb(254,1,143);
-transition: 0.13s;
+transition: 0.3s;
+}
+
+#instatxt:hover {
+cursor: pointer;
+color: rgb(254,1,143);
+transition: 0.3s;
+}
+
+#tweettxt:hover {
+cursor: pointer;
+color: rgb(254,1,143);
+transition: 0.3s;
 }
 
 html, body {
