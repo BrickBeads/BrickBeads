@@ -1,10 +1,10 @@
 ::-webkit-scrollbar {
-	display:none;
+display:none;
 }
 
 ::selection {
-  background: rgb(10,15,254);
-  color: rgb(250,252,249);
+background: rgb(10,15,254);
+color: rgb(250,252,249);
 }
 
 #worktitle {
@@ -26,8 +26,8 @@ z-index: 99;
 }
 
 #worktitle:hover {
-    color: rgb(10,15,254);
-	transition: 0.3s;
+color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 #wheader {
@@ -35,18 +35,18 @@ margin-bottom: 1.65%;
 }
 
 #greywork:hover {
-    color: rgb(10,15,254);
-	transition: 0.3s;
+ color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 #newstab:hover {
-    color: rgb(10,15,254);
-	transition: 0.3s;
+  color: rgb(10,15,254);
+transition: 0.3s;
 }
 
 #infotab:hover {
      color: rgb(10,15,254);
-	transition: 0.3s;
+transition: 0.3s;
 }
 
 #greywork {
@@ -491,7 +491,7 @@ cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
 margin-right: 4.1%;
-margin-bottom: 2.7%;
+margin-bottom: 4.1%;
 float: left;
 }
 
@@ -500,7 +500,7 @@ display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
-margin-bottom: 2.7%;
+margin-bottom: 4.1%;
 float: left;
 }
 
@@ -509,7 +509,7 @@ display: block;
 cursor: pointer;
 width: 30.6%; 
 height: 30.6%;
-margin-bottom: 2.7%;
+margin-bottom: 4.1%;
 float: left;
 }
 
