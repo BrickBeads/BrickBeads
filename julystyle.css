@@ -1,10 +1,10 @@
 ::-webkit-scrollbar {
-	display:none;
+display:none;
 }
 
 ::selection {
-  background: rgb(193,251,200);
-  color: rgb(254,254,253);
+background: rgb(209,140,251);
+color: rgb(254,254,254);
 }
 
 #worktitle {
@@ -26,8 +26,8 @@ z-index: 99;
 }
 
 #worktitle:hover {
-    color: rgb(254,1,143);
-	transition: 0.3s;
+color: rgb(209,140,251);
+transition: 0.3s;
 }
 
 #wheader {
@@ -35,17 +35,17 @@ margin-bottom: 1.65%;
 }
 
 #greywork:hover {
-    color: rgb(254,1,143);
+    color: rgb(209,140,251);
 	transition: 0.3s;
 }
 
 #newstab:hover {
-    color: rgb(254,1,143);
+    color: rgb(209,140,251);
 	transition: 0.3s;
 }
 
 #infotab:hover {
-     color: rgb(254,1,143);
+     color: rgb(209,140,251);
 	transition: 0.3s;
 }
 
@@ -202,7 +202,7 @@ float: left;
 }
 
 #may:hover {
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
@@ -232,7 +232,7 @@ float: left;
 }
 
 #april:hover {
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
@@ -261,7 +261,7 @@ float: left;
 }
 
 #march:hover {
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
@@ -305,7 +305,6 @@ float: left;
 padding-top: 3.5%;
 padding-bottom: 2.3%;
 }
-
 .images {
 display: block;
 margin-left: 0.25%;
@@ -320,7 +319,6 @@ width: 30.6%;
 height: 30.6%;
 float: left;
 }
-
 #sycamore {
 display: block;
 cursor: pointer;
@@ -340,7 +338,6 @@ width: 30.6%;
 height: 30.6%;
 float: left;
 }
-
 #medan {
 display: block;
 cursor: pointer;
@@ -350,7 +347,6 @@ margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
-
 #tulum {
 display: block;
 cursor: pointer;
@@ -715,7 +711,6 @@ margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
-
 #mex996 {
 display: block;
 cursor: pointer;
@@ -724,7 +719,6 @@ height: 30.6%;
 margin-bottom: 4.1%;
 float: left;
 }
-
 #mex997 {
 display: block;
 cursor: pointer;
@@ -734,7 +728,6 @@ margin-right: 4.1%;
 margin-bottom: 4.1%;
 float: left;
 }
-
 #mex998 {
 display: block;
 cursor: pointer;
@@ -1386,7 +1379,7 @@ float: right;
 
 #bushattack:{
 cursor: pointer;
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
@@ -1398,19 +1391,19 @@ display: block;
 
 #txtright:hover {
 cursor: pointer;
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
 #instatxt:hover {
 cursor: pointer;
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
 #tweettxt:hover {
 cursor: pointer;
-color: rgb(254,1,143);
+color: rgb(209,140,251);
 transition: 0.3s;
 }
 
@@ -1422,12 +1415,10 @@ html, body {
 canvas {
   display: block;
 }
-
 #clipmail {
 display: none;
 font-family: 'Inter', sans-serif;
 }
-
 body {
 background-color: rgb(251,251,240);
 background-repeat: no-repeat;
